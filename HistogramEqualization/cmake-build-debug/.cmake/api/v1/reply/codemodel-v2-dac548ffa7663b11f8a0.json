@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lzt_hw02_HistogramEqualization",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lzt_hw02_HistogramEqualization::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lzt_hw02_HistogramEqualization-Debug-9fefe4d1b6a09de6b6bc.json",
+					"name" : "lzt_hw02_HistogramEqualization",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mia/Desktop/ComputerVision/lzt_hw02_HistogramEqualization/cmake-build-debug",
+		"source" : "/home/mia/Desktop/ComputerVision/lzt_hw02_HistogramEqualization"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
